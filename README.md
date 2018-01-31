@@ -1,2 +1,2 @@
 # Pdfier
-Simple html to pdf API in Sinatra
+Simple html to pdf app in Sinatra
